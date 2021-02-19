@@ -1,8 +1,8 @@
 [![Read the wiki](https://img.shields.io/static/v1?label=Read%20the&message=Wiki&color=orange&style=for-the-badge)](../../wiki)
 
-# PlumPX32 Micropython API
+# Trackduino Pro Micropython API
 
-This **API**'s goal is to provide implementation of Robotrack's PlumPX32 interface on MicroPython 32-bit platform.
+This **API**'s goal is to provide implementation of Robotrack's Trackduino Pro interface on MicroPython 32-bit platform.
 
 This **API** contains:
 - Common Arduino-like functions;
