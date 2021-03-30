@@ -1,13 +1,13 @@
-Welcome to Trackduino Pro API's documentation!
-==============================================
+Добро пожаловать в документацию Trackduino Pro API!
+===================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Содержание:
 
 
 
-Indices and tables
+Таблицы и индексы
 ==================
 
 * :ref:`genindex`
